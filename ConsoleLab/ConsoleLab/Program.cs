@@ -10,6 +10,7 @@ namespace ConsoleLab
     {
         static void Main(string[] args)
         {
+            Console.ReadKey();
         }
     }
 }
